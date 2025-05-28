@@ -213,11 +213,3 @@ pip install -r requirements-dev.txt
 # Run tests
 python main.py/
 ```
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful! ⭐**
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-
-</div>
